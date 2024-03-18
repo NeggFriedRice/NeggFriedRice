@@ -1,6 +1,6 @@
 ## Hello there, I'm Tom! 🤖
 
-Thanks for stopping by! I'm a Junior Full Stack Web Developer hoping to make my mark on the world 🌏.
+Thanks for stopping by! I'm a Junior Full Stack Web Developer based in Melbourne hoping to make my mark on the world 🌏.
 
 Feel free to hop over to my portfolio [here](https://thomasloo.dev/).
 
