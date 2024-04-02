@@ -9,7 +9,7 @@ For front end: HTML, CSS, JavaScript & React
 
 For backend we've got: Node.js, Express.js, MongoDB
 
-I also used Python to build a backend API, it's called [CramHub](https://github.com/NeggFriedRice/CramHub), check it out!
+I also used Python to build a backend API, it's called [CramHub](https://github.com/NeggFriedRice/CramHub), and a terminal-based text-game [BeyBlade Battle Sim](https://github.com/NeggFriedRice/beyblade-battle-sim), check them out!
 
 ### Things I'm currently working on 💡
 - Building out my [CARtificate](https://github.com/NeggFriedRice/cartificate-frontend) app (built with React) and turn it into something people can actually use!
