@@ -1,4 +1,4 @@
-## Hello there, I'm Tom! 🤖
+## Hello there, I'm Tom! 🤖 | thomasloo.dev
 
 Thanks for stopping by! I'm a Junior Full Stack Web Developer based in Melbourne hoping to make my mark on the world 🌏.
 
