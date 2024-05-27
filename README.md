@@ -13,7 +13,6 @@ I also used Python to build a backend API, it's called [CramHub](https://github.
 
 ### Things I'm currently working on 💡
 - Building out my [CARtificate](https://github.com/NeggFriedRice/cartificate-frontend) app (built with React) and turn it into something people can actually use!
-- Level 6 and 7 kyu Python challenges on [CodeWars](https://www.codewars.com/trainer/python)
 
 #### Contact
 If you're interested in having a chat please do shoot me an email at tomloo222@gmail.com, or send me a message on [LinkedIn](https://www.linkedin.com/in/thomas-loo/)
