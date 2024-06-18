@@ -1,6 +1,6 @@
 ## Hello there, I'm Tom! 🤖 | thomasloo.dev
 
-Thanks for stopping by! I'm an aspiring Full Stack Web Developer based in Melbourne..
+Thanks for stopping by! I'm an aspiring Full Stack Web Developer based in Melbourne.
 
 For a more interactive experience, feel free to hop over to my portfolio [here](https://thomasloo.dev/).
 
